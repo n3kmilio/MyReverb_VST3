@@ -18,3 +18,6 @@ This is a custom-built VST3 audio plugin implementing a real-time reverb effect 
 
 ## Tested with
 - Ableton Live
+  
+## Screenshot
+![image](https://github.com/user-attachments/assets/6ac96ffc-6a94-4dca-a139-bbf74e1ceef5)
